@@ -1,0 +1,4 @@
+MARCO: Hola que tal como te va	28/05/2020 12:19:30 PM
+PEDRO: Hola Marco, muy bien y tu	28/05/2020 12:19:45 PM
+MARCO: igual bien	28/05/2020 12:19:52 PM
+PEDRO: oye quiero invitarte a mi fiesta	28/05/2020 12:20:06 PM
